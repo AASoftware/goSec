@@ -1,10 +1,10 @@
 # Welcome to goSec Tools!
 
-This repository serves as a hub for publishing and sharing new "living off the land" tools written in Go.
+This repository serves as a hub for publishing and sharing new lightweight Pentest tools written in Go.
 
 ## About This Repository
 
-In this repository, we publish various "living off the land" tools developed in Go. Each tool is designed to demonstrate specific techniques or concepts related to network scanning, security testing, or system administration.
+In this repository, we publish various lightweight Pentest tools developed in Go. Each tool is designed to demonstrate specific techniques or concepts related to network scanning, security testing, or system administration.
 
 ## Disclaimer
 
