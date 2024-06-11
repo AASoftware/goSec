@@ -12,6 +12,4 @@ All tools published in this repository are intended for educational and research
 
 ## Contributions
 
-Contributions to this repository are welcome! If you have developed a new "living off the land" tool in Go and would like to share it with the community, send us a request to become a contributor.
-
-We hope you find these tools useful and educational!
+Contributions to this repository are welcome!
