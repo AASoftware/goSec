@@ -45,7 +45,3 @@ Once you have compiled the code, you can use the `main` executable to run the ne
 
 ./scanner.exe -h Hostname -t50 -a for all ports
 
-
-## Disclaimer
-
-This tool is a "living off the land" utility, intended for educational and research purposes only. Use it responsibly and ensure that you have proper authorization before scanning any network or system.
